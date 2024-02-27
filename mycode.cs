@@ -25,3 +25,4 @@
         {
             return point.X * plane.Normal.X + point.Y * plane.Normal.Y + point.Z * plane.Normal.Z + plane.D;
       
+//c sharp
